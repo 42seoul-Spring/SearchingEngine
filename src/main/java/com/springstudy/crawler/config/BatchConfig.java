@@ -1,4 +1,4 @@
-package com.icemelon404.communtiy.batch.config;
+package com.springstudy.crawler.config;
 
 import org.springframework.batch.core.launch.JobLauncher;
 import org.springframework.batch.core.launch.support.SimpleJobLauncher;

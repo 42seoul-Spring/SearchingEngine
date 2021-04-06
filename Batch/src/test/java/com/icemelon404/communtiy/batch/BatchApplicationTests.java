@@ -1,14 +1,13 @@
-package com.springstudy.crawler;
+package com.icemelon404.communtiy.batch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CrawlerApplicationTests {
+class BatchApplicationTests {
 
-	@Test
-	void contextLoads() {
-
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }

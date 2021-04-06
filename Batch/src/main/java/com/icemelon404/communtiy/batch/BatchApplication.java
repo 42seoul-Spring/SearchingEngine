@@ -1,15 +1,15 @@
-package com.springstudy.crawler;
+package com.icemelon404.communtiy.batch;
 
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@EnableBatchProcessing
 @SpringBootApplication
-public class CrawlerApplication {
+@EnableBatchProcessing
+public class BatchApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CrawlerApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(BatchApplication.class, args);
+    }
 
 }
